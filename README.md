@@ -37,13 +37,13 @@ This project is a simple Python script that calculates either the amount of inte
 - investment - to calculate the amount of interest you'll earn on your investment 
 - bond       - to calculate the amount you'll have to pay on a home loan 
 
-Enter either 'investment' or 'bond' from the menu above to proceed: investment
-Please enter the amount you are investing: 1000
-Please enter the investment rate that you are investing at: 5
-Please enter the amount of years you would like to invest: 3
-Please select state what interest type you would like to make use of. 
-Simple or Compound: simple
-The amount you'll earn using Simple interest is R1150.0.
+1. Enter either 'investment' or 'bond' from the menu above to proceed: investment
+2. Please enter the amount you are investing: 1000
+3. Please enter the investment rate that you are investing at: 5
+4. Please enter the amount of years you would like to invest: 3
+5. Please select state what interest type you would like to make use of. 
+6. Simple or Compound: simple
+7. The amount you'll earn using Simple interest is R1150.0.
 
 ## Requirements
  - Python 3.x
