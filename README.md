@@ -32,7 +32,7 @@ This project is a simple Python script that calculates either the amount of inte
       -Enter the number of months for repayment.
       -The script will display the monthly repayment amount.
 
-   **Example Usage**
+## Example Usage
 
 investment - to calculate the amount of interest you'll earn on your investment 
 bond       - to calculate the amount you'll have to pay on a home loan 
@@ -45,8 +45,8 @@ Please select state what interest type you would like to make use of.
 Simple or Compound: simple
 The amount you'll earn using Simple interest is R1150.0.
 
-**Requirements**
+## Requirements
  - Python 3.x
 
-**Contact**
+## Contact
 For any questions or comments, please open an issue or contact me.
