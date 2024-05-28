@@ -34,8 +34,8 @@ This project is a simple Python script that calculates either the amount of inte
 
 ## Example Usage
 
-investment - to calculate the amount of interest you'll earn on your investment 
-bond       - to calculate the amount you'll have to pay on a home loan 
+- investment - to calculate the amount of interest you'll earn on your investment 
+- bond       - to calculate the amount you'll have to pay on a home loan 
 
 Enter either 'investment' or 'bond' from the menu above to proceed: investment
 Please enter the amount you are investing: 1000
